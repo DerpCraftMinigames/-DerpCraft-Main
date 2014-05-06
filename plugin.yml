@@ -1,0 +1,8 @@
+name: DerpCraftMain
+version: 1.1.0
+main: me.kobini.derpcraft.main.Main
+commands:
+    dc:
+        description: Derpcraft!
+    leave:
+        description: Leave the minigames!
